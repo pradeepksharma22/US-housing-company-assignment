@@ -54,7 +54,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- This project was based on regulaisatin(ridge and lasso) advance Linear Regression Module for the Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
+- This project was based on model regularization(using ridge and lasso), an Advance Regression Module for the Executive PG Programme in Machine Learning & AI - IIIT,Bangalore.
 
 
 ## Contributors
